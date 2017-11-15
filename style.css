@@ -1,0 +1,85 @@
+body{
+    background-color : grey;
+}
+
+.container{
+    width : 1000px;
+    margin : auto;
+}
+
+header {
+    background : white;
+    margin : auto;
+    width : 100%;
+    text-align : center;
+    padding : 2em 0em;
+}
+
+nav{
+    background-color: white;
+    margin : auto;
+    margin-top : 1em;
+    width : 100%;
+    text-align: center;
+    padding: 2em 0em;
+
+}
+
+section{
+    background-color : white;
+    margin-top : 1em;
+    width : 55%;
+    text-align : center;
+    display : inline-block;
+    padding: 2em 0em;
+}
+
+article{
+    background-color: gray;
+    color: white;
+    margin: auto;
+    margin-top: 1em;
+    width: 95%;
+    text-align: center;
+    padding: 2em 0em;
+
+}
+
+h3{
+    background-color: white;
+    color: black;
+    margin :auto;
+    margin-top: 1em;
+    width: 90%;
+    text-align: center;
+    padding: 1em 0em;
+}
+
+p{
+    background-color: white;
+    color: black;
+    margin: auto;
+    margin-top: 1em;
+    width: 90%;
+    text-align: center;
+    padding: 1em 0em;
+}
+
+aside{
+    background-color: white;
+    float : right;
+    margin-top: 1em;
+    width: 40%;
+    height: 255px;
+    text-align: center;
+    display : inline-block;
+    padding: 2em 0em;
+}
+footer{
+    background-color: white;
+    margin: auto;
+    margin-top: 1em;
+    width: 100%;
+    text-align: center;
+    padding: 2em 0em;
+}
